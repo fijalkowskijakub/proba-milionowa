@@ -1,6 +1,6 @@
 ---
-anchor: "Dupa"
-header: "Services"
+anchor: "Dlaczego my?"
+header: "Dlaczego my?"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 services: [
   {

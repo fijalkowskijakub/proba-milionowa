@@ -1,6 +1,6 @@
 ---
-anchor: "Dupa Portfolio"
-header: "Dupa Portfolio"
+anchor: "Nasz Portfolio"
+header: "Portfolio"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 portfolios: [
   {
