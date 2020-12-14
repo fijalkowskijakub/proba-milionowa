@@ -1,12 +1,12 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Kuba F"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "Privacy Policy"
+privacyText: "Polityka prywatności"
 privacyHref: "#!"
-termsText: "Terms of Use"
+termsText: "Coś tam coś tam"
 termsHref: "#!"
 ---

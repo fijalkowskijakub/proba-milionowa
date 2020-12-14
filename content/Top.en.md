@@ -1,7 +1,7 @@
 ---
-header: "Miło cię poznać"
+header: "Miło cię poznać!"
 subheader: "Welcome To Our Studio!"
-imageFileName: "header-bg.jpg"
+imageFileName: "patrykd.jpg"
 jumpToAnchor: "Dlaczego my?"
 jumpToAnchorText: "Chcę wiedzieć więcej!"
 ---
